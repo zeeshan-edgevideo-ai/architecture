@@ -79,7 +79,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qlQNnC0HPWKh5QGIeAxc-29" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=6;" vertex="1" parent="1">
-          <mxGeometry x="157.5" y="410" width="510" height="270" as="geometry" />
+          <mxGeometry x="80" y="410" width="720" height="270" as="geometry" />
         </mxCell>
         <mxCell id="qlQNnC0HPWKh5QGIeAxc-30" value="Our central server" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="168" y="640" width="122" height="30" as="geometry" />
@@ -89,6 +89,9 @@
         </mxCell>
         <mxCell id="qlQNnC0HPWKh5QGIeAxc-32" value="Edge&amp;nbsp; Studio" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="1040" width="122" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qlQNnC0HPWKh5QGIeAxc-33" value="Layer to manage and format query and response formates&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="420" width="430" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
