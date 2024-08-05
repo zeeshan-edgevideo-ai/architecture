@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6">
   <diagram name="Page-1" id="vdqN5m6ySMCwHAxwxoht">
-    <mxGraphModel dx="1313" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1909" dy="1013" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -93,24 +93,24 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qlQNnC0HPWKh5QGIeAxc-29" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=6;" vertex="1" parent="1">
-          <mxGeometry x="80" y="820" width="720" height="270" as="geometry" />
+          <mxGeometry x="52.5" y="860" width="720" height="270" as="geometry" />
         </mxCell>
         <mxCell id="qlQNnC0HPWKh5QGIeAxc-30" value="Our central server" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="90" y="820" width="122" height="30" as="geometry" />
+          <mxGeometry x="62.5" y="860" width="122" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qlQNnC0HPWKh5QGIeAxc-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="qlQNnC0HPWKh5QGIeAxc-31" target="qlQNnC0HPWKh5QGIeAxc-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qlQNnC0HPWKh5QGIeAxc-31" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=6;" vertex="1" parent="1">
-          <mxGeometry x="250" y="1220" width="350" height="270" as="geometry" />
+          <mxGeometry x="222.5" y="1260" width="350" height="270" as="geometry" />
         </mxCell>
         <mxCell id="qlQNnC0HPWKh5QGIeAxc-32" value="Edge&amp;nbsp; Studio" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="238" y="1230" width="122" height="30" as="geometry" />
+          <mxGeometry x="210.5" y="1270" width="122" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qlQNnC0HPWKh5QGIeAxc-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="qlQNnC0HPWKh5QGIeAxc-33" target="qlQNnC0HPWKh5QGIeAxc-49">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="455" y="860" />
+              <mxPoint x="455" y="900" />
               <mxPoint x="455" y="800" />
               <mxPoint x="309" y="800" />
             </Array>
@@ -119,20 +119,20 @@
         <mxCell id="qlQNnC0HPWKh5QGIeAxc-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="qlQNnC0HPWKh5QGIeAxc-33" target="qlQNnC0HPWKh5QGIeAxc-55">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="610" y="860" />
+              <mxPoint x="610" y="900" />
               <mxPoint x="610" y="810" />
               <mxPoint x="720" y="810" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="qlQNnC0HPWKh5QGIeAxc-33" value="Layer to manage and format query and response formats for data streams&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="860" width="650" height="30" as="geometry" />
+          <mxGeometry x="92.5" y="900" width="650" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qlQNnC0HPWKh5QGIeAxc-35" value="Requests Receiver" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="1040" width="160" height="30" as="geometry" />
+          <mxGeometry x="422.5" y="1080" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qlQNnC0HPWKh5QGIeAxc-36" value="Request Response&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="1040" width="160" height="30" as="geometry" />
+          <mxGeometry x="602.5" y="1080" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qlQNnC0HPWKh5QGIeAxc-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.834;entryY=-0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qlQNnC0HPWKh5QGIeAxc-36" target="qlQNnC0HPWKh5QGIeAxc-31">
           <mxGeometry relative="1" as="geometry" />
@@ -140,9 +140,8 @@
         <mxCell id="qlQNnC0HPWKh5QGIeAxc-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qlQNnC0HPWKh5QGIeAxc-46" target="qlQNnC0HPWKh5QGIeAxc-33">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="125" y="810" />
-              <mxPoint x="293" y="810" />
-              <mxPoint x="293" y="860" />
+              <mxPoint x="100" y="810" />
+              <mxPoint x="255" y="810" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -168,7 +167,7 @@
         <mxCell id="qlQNnC0HPWKh5QGIeAxc-49" value="This API can provide us&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;li&gt;&lt;strong&gt;id&lt;/strong&gt;: Unique identifier for the QR code.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;name&lt;/strong&gt;: Title or name for identification.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;visits&lt;/strong&gt;: Total number of scans.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;uri&lt;/strong&gt;: Unique link associated with the QR code.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;type&lt;/strong&gt;: Specifies QR code type (e.g., URL).&lt;/li&gt;&lt;li&gt;&lt;strong&gt;scans&lt;/strong&gt;: Tracks the number of scans.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;createdAt&lt;/strong&gt;: Creation timestamp.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;updatedAt&lt;/strong&gt;: Last update timestamp.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;googleAnalyticsId&lt;/strong&gt;: Google Analytics tracking ID&lt;/li&gt;&lt;li&gt;This can not give location and device in API , we can see this detail on qrfy dashboard only.&lt;/li&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;fillColor=none;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="219" y="340" width="180" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="qlQNnC0HPWKh5QGIeAxc-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="qlQNnC0HPWKh5QGIeAxc-55">
+        <mxCell id="qlQNnC0HPWKh5QGIeAxc-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="qlQNnC0HPWKh5QGIeAxc-55" target="qlQNnC0HPWKh5QGIeAxc-33">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="610" y="860" as="targetPoint" />
             <Array as="points">
