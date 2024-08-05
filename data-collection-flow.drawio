@@ -91,7 +91,7 @@
           <mxGeometry x="250" y="1040" width="122" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qlQNnC0HPWKh5QGIeAxc-33" value="Layer to manage and format query and response formates&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="420" width="430" height="30" as="geometry" />
+          <mxGeometry x="120" y="430" width="650" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
