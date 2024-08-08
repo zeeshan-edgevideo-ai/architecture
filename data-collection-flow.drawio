@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6" pages="2">
   <diagram name="Data-streams" id="vdqN5m6ySMCwHAxwxoht">
     <mxGraphModel dx="1313" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -182,6 +182,14 @@
         <mxCell id="qlQNnC0HPWKh5QGIeAxc-55" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;This API can provide us&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;-&amp;nbsp;&lt;span style=&quot;background-color: transparent; font-family: Arial, sans-serif; white-space-collapse: preserve; font-size: 10.5pt; color: rgb(14, 14, 14); font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;&quot;&gt;Gaming and points  Metrics&lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-family: Arial, sans-serif; white-space-collapse: preserve; font-size: 10.5pt; color: rgb(14, 14, 14); font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;&quot;&gt;: Show the number of gaming interactions, campaign leaderboards and total numbers of points awarded. Also, how many points have been exchanged for $FAST.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; font-family: Arial, sans-serif; white-space-collapse: preserve; font-size: 10.5pt; color: rgb(14, 14, 14); font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;&quot;&gt;Streaming Platforms&lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-family: Arial, sans-serif; white-space-collapse: preserve; font-size: 10.5pt; color: rgb(14, 14, 14); font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;&quot;&gt;: Show the number of streaming platforms integrated.&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-309f47b6-7fff-090a-63e8-02fa259400b4&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; white-space-collapse: preserve; font-size: 10.5pt; font-family: Arial, sans-serif; color: rgb(14, 14, 14); font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;&quot;&gt;Streaming Channels&lt;/span&gt;&lt;span style=&quot;background-color: transparent; white-space-collapse: preserve; font-size: 10.5pt; font-family: Arial, sans-serif; color: rgb(14, 14, 14); font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;&quot;&gt;: Display the number of active streaming channels.&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;fillColor=none;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="630" y="340" width="180" height="440" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="brlHRHBzlnBouM1mN9W9" name="Page-2">
+    <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
