@@ -186,10 +186,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="brlHRHBzlnBouM1mN9W9" name="data-relations">
-    <mxGraphModel dx="2085" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2085" dy="1755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="KjMxd2cmTo-GW_gGAzt3-43" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="-30" width="1020" height="380" as="geometry" />
+        </mxCell>
         <mxCell id="KjMxd2cmTo-GW_gGAzt3-1" value="stream_match_vendors" style="shape=table;startSize=20;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="130" width="180" height="150" as="geometry" />
         </mxCell>
@@ -366,6 +369,9 @@
               <mxPoint x="200" y="95" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="KjMxd2cmTo-GW_gGAzt3-44" value="While creating vendor we will be using these tables" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="-30" width="330" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
