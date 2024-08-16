@@ -186,7 +186,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="brlHRHBzlnBouM1mN9W9" name="data-relations">
-    <mxGraphModel dx="2284" dy="892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2284" dy="892" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -374,7 +374,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0wATzBQkdV3s8a3nsTuS-3" value="&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#ff0335&quot;&gt;-We can not specify regions for a channel with current schemas. For example vendor&amp;nbsp; is available in regions A and B and i want to enable this vendor for this channel only in region B, as in current case what ever region is for vendor will be applied to channel&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#ff0335&quot;&gt;- We can not&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="0wATzBQkdV3s8a3nsTuS-3" value="&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#ff0335&quot;&gt;-We can not specify regions for a channel with current schemas. For example vendor&amp;nbsp; is available in regions A and B and i want to enable this vendor for this channel only in region B, as in current case what ever region is for vendor will be applied to channel&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#ff0335&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#ff0335&quot;&gt;- We can not&amp;nbsp; list the status (like we have in excel sheet Applied, Approved, Rejected)&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#ff0335&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="30" width="470" height="240" as="geometry" />
         </mxCell>
       </root>
